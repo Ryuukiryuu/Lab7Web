@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+**Nama   :** Wahyu Andika  
+**NIM    :** 312410182  
+**Kelas  :** TI.24.A2  
+**Matkul :** Pemrograman Web 1  
+**Dosen Pengampu :** Agung Nugroho, S.Kom., M.Kom
+
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -67,3 +73,4 @@
     ?>
 </body>
 </html>
+```
